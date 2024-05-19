@@ -98,6 +98,7 @@ nav{
 }
 
 .background_container_3{
+    background-color: rgb(35, 35, 106);
     position: relative;
     height: 100vh;
 }
@@ -154,6 +155,7 @@ nav{
 }
 
 .background_container_4{
+    background-color: rgb(35, 35, 106);
     height: 100vh;
 }
 .background_container_4 .products{
